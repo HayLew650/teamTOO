@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "yarn%20add%20gh-pages/static/css/main.f7d47b0b.chunk.css",
+    "main.js": "yarn%20add%20gh-pages/static/js/main.1bd81bfe.chunk.js",
+    "main.js.map": "yarn%20add%20gh-pages/static/js/main.1bd81bfe.chunk.js.map",
+    "runtime~main.js": "yarn%20add%20gh-pages/static/js/runtime~main.af064bd7.js",
+    "runtime~main.js.map": "yarn%20add%20gh-pages/static/js/runtime~main.af064bd7.js.map",
+    "static/js/2.d6a534e5.chunk.js": "yarn%20add%20gh-pages/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "yarn%20add%20gh-pages/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "yarn%20add%20gh-pages/index.html",
+    "precache-manifest.dfe4074d97b22fe66b02a3983426d052.js": "yarn%20add%20gh-pages/precache-manifest.dfe4074d97b22fe66b02a3983426d052.js",
+    "service-worker.js": "yarn%20add%20gh-pages/service-worker.js",
+    "static/css/main.f7d47b0b.chunk.css.map": "yarn%20add%20gh-pages/static/css/main.f7d47b0b.chunk.css.map"
+  }
+}
